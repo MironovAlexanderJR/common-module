@@ -32,14 +32,6 @@
             <artifactId>spring-boot-starter-test</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-openfeign</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-netflix-ribbon</artifactId>
-        </dependency>
-        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-aop</artifactId>
         </dependency>
@@ -51,6 +43,10 @@
         <dependency>
             <groupId>liga.medical</groupId>
             <artifactId>common-utils</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>liga.medical</groupId>
+            <artifactId>common-core</artifactId>
         </dependency>
 
         <dependency>
